@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nitin Verma</h1>
-<h3 align="center">A passionate CSE student from Delhi Technological university with 2 years of experience working with different technologies ranging from C++ to mobile development. 
-Currently focused on mobile development using Flutter to create apps for Android and iOS.I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.</h3>
+<h1 align="center">Hi 👋, I'm Chehak Batra</h1>
+<h3 align="center">A passionate ENE student from Delhi Technological university with 2 years of experience working with different technologies ranging from C++ to web development. 
+Currently focused on web development using HTML,CSS and JavaScript to different websites.I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chehak-Batra&label=Profile%20views&color=0e75b6&style=flat" alt="Chehak-Batra" /> </p>
 <img align="left" alt="Coding" width="400" height="180" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
    
    <h4 align="right">
-   🌱 I’m currently learning Artificial Intelligence
+   🌱 I’m currently learning Computer Networks
 
 
-   💬 Ask me about **Flutter, dart and C++**
+   💬 Ask me about **HTML,CSS,JS and C++**
 
 
-   📫 How to reach me **nitinverma03421@gmail.com**
+   📫 How to reach me **chehakbatra8@gmail.com**
 
 
-   ⚡ Fun fact **I think i am actually funny xD.**
+   ⚡ Fun fact **I get scared of dogs sometimes xD.**
     
    👋 LIFE IS FUN
     
