@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chehak Batra</h1>
-<h3 align="center">A passionate ENE student from Delhi Technological university with 2 years of experience working with different technologies ranging from C++ to web development. 
-Currently focused on web development using HTML,CSS and JavaScript to different websites.I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.</h3>
+<h3 align="center">A passionate Delhi Technological University student with 2 years of coding experience with different technologies ranging from C++ to web development. 
+Currently focused on web development using HTML,CSS and JavaScript and Software Developer internship experiences of working in corporate world. I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chehak-Batra&label=Profile%20views&color=0e75b6&style=flat" alt="Chehak-Batra" /> </p>
 <img align="left" alt="Coding" width="400" height="180" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -14,8 +14,6 @@ Currently focused on web development using HTML,CSS and JavaScript to different 
 
    📫 How to reach me **chehakbatra8@gmail.com**
 
-
-   ⚡ Fun fact **I get scared of dogs sometimes xD.**
     
    👋 LIFE IS FUN
     
@@ -25,17 +23,16 @@ Currently focused on web development using HTML,CSS and JavaScript to different 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nitin-verma-909732195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-verma-909732195" height="30" width="40" /></a>
-<a href="https://instagram.com/baby._.blue01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baby._.blue01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/n1i2t3i4n5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="n1i2t3i4n5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nitinverma03241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitinverma03241" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitinverma1work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitinverma1work" height="30" width="40" /></a>
-</p>
+<a href="www.linkedin.com/in/chehak-batra![image](https://user-images.githubusercontent.com/76622427/177185377-4d142147-77b1-4e10-aa16-c08a6b15e811.png)
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chehak-batra" height="30" width="40" /></a>
+<a href="https://instagram.com/chehakbatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chehakbatra" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chehak-Batra&show_icons=true&locale=en&layout=compact" alt="nitinverma-121" /></p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </a> 
+</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chehak-Batra&show_icons=true&locale=en&layout=compact" alt="Chehak-Batra" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chehak-Batra&" alt="Chehak-Batra" /></p>
 <h2 align="center">TOP REPO</h2>
