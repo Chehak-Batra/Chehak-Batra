@@ -6,7 +6,7 @@ I am currently focused on exploring Big Data, Machine Learning, and Deep Learnin
 <img align="left" alt="Coding" width="400" height="180" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
    
    <h4 align="right">
-   🌱 I’m currently learning Big Data
+   🌱 I’m currently learning **Big Data**
 
 
    💬 Ask me about **HTML,CSS,JS and C++**
