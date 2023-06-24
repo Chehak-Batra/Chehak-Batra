@@ -21,8 +21,7 @@ I am currently focused on exploring Big Data, Machine Learning, and Deep Learnin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/chehak-batra![image](https://user-images.githubusercontent.com/76622427/177185377-4d142147-77b1-4e10-aa16-c08a6b15e811.png)
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chehak-batra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chehak-batra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chehak-batra" height="30" width="40" /></a>
 <a href="https://instagram.com/chehakbatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chehakbatra" height="30" width="40" /></a>
 
 
@@ -35,7 +34,7 @@ I am currently focused on exploring Big Data, Machine Learning, and Deep Learnin
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chehak-Batra&" alt="Chehak-Batra" /></p>
 <h2 align="center">TOP REPO</h2>
 <p align="center">
-<a href="https://github.com/Chehak-Batra/Diverse-Website-Quiz">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chehak-Batra&repo=Diverse-Website-Quiz&theme=vue-dark&hide_border=true" height="185">
+<a href="https://github.com/Chehak-Batra/SedLyf-An-Audio-Boredom-Removal-Website">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chehak-Batra&repo=SedLyf-An-Audio-Boredom-Removal-Website&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
