@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chehak Batra</h1>
-<h3 align="center">A passionate Delhi Technological University student with 2 years of coding experience with different technologies ranging from C++ to web development. 
-Currently focused on web development using HTML,CSS and JavaScript and Software Developer internship experiences of working in corporate world. I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.</h3>
+<h3 align="center">A passionate Delhi Technological University student with 3 years of coding experience with different technologies ranging from C++ to web development using HTML, CSS, and JavaScript. I have experience working as Software Developer in an internship at Expedia Group.
+I am currently focused on exploring Big Data, Machine Learning, and Deep Learning technologies. I am eager to learn about new technologies, their impacts and am willing to work with cross-functional teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chehak-Batra&label=Profile%20views&color=0e75b6&style=flat" alt="Chehak-Batra" /> </p>
 <img align="left" alt="Coding" width="400" height="180" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
    
    <h4 align="right">
-   🌱 I’m currently learning Computer Networks
+   🌱 I’m currently learning Big Data
 
 
    💬 Ask me about **HTML,CSS,JS and C++**
